@@ -1,0 +1,15 @@
+{
+  "type": "application",
+  "username": "nothing but studies.",
+  "branch": "~2.0.0",
+  "module": "AppComponent",
+  "modules": [
+    "router"
+  ],
+  "transpilers": {
+    "views": "jade",
+    "scripts": "babel",
+    "styles": "less"
+  },
+  "locale": "en"
+}
